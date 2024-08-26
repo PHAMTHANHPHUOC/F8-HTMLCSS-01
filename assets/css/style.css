@@ -177,6 +177,16 @@ A {
     justify-content: space-between;
     margin-top: 96px;
 }
+.client .images a {
+    display: flex;
+    align-items: center;
+    padding: 0 42px;
+    height: 91px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    box-shadow: 0px 10px 20px
+    rgba(0, 0, 0, 0.1);
+}
 
 .guides {
     margin-top: 40px;
